@@ -1,6 +1,6 @@
 <?php
-echo "Hello LINE BOT";
-echo "Test app"\n;
+echo "Server App test\n";
+
 $link = mysqli_connect('localhost', 'root', 'password');  
 if (!$link)  
 {  
